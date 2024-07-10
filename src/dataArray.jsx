@@ -1,7 +1,7 @@
 const proImgUrl = (index, item) => {
     const name = index > 9 ? index : `0${index}`;
-    const url = `./assets/${item}/image${name}.png`;
-    return new URL(url, import.meta.url).href;
+    const url = `/assets/${item}/image${name}.png`;
+    return url;
   }
   
 export const skillImages = [

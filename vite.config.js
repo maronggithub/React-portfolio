@@ -13,11 +13,11 @@ export default defineConfig({
       // 这里的 @ 就是我们要为 src 配置的别名
     },
   },
+  publicDir: "public",
   build: {
     outDir: "dist",
     assetsDir: "assets",
   },
-  publicDir: "public",
   server: {
     port: 8080,
     hot: true,
