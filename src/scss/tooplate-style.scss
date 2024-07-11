@@ -31,9 +31,11 @@ body {
 	margin: 0;
 	font-family: $font-base;
 }
-
+.nav-top {
+	padding-top: 1em;;
+}
 .full-screen {
-	padding: 6rem 0;
+	padding: 3rem 0;
 }
 
 .small-text {
