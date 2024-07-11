@@ -28,7 +28,7 @@ function About() {
 
               <p className="animated">
                 I have deep passion for creating user-friendly and visually
-                appealing websites. In my freetime, I enjoy exploring new
+                appealing web applications. In my freetime, I enjoy exploring new
                 technologies and staying up to date with the latest industry
                 trends. I demand of myself in my career:{" "}
                 <span className="animated-item">
