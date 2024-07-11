@@ -30,7 +30,7 @@ function About() {
                 I have deep passion for creating user-friendly and visually
                 appealing web applications. In my freetime, I enjoy exploring new
                 technologies and staying up to date with the latest industry
-                trends. I demand of myself in my career:{" "}
+                trends. I demand of myself in my career:{" "}<br></br>
                 <span className="animated-item">
                   Think big, Be professional, Be creative!
                 </span>
