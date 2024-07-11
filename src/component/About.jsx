@@ -42,7 +42,7 @@ function About() {
               <img src={aboutImg} className="img-fluid" alt="about image" />
             </div>
           </Col>
-          <Col lg={4} md={12} xs={12} className="custom-btn-group">
+          <Col lg={7} md={12} xs={12} className="custom-btn-group">
             <a
               href={portfolio}
               download="marong_cv.zip"
